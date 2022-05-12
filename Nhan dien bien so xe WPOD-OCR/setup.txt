@@ -1,0 +1,4 @@
+opencv-python
+keras
+pytesseract
+tensorflow==2.5.0
